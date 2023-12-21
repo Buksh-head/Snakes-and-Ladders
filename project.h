@@ -1,0 +1,1 @@
+void switch_ssd();
